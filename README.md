@@ -1,4 +1,13 @@
-# mobile-first
- Projeto criado durante o curso de HTML5 e CSS do Cursoemvideo, para estudo do conceito de MOBILE FIRST.
 
- <p>Clique <a href="https://mendjoy.github.io/mobile-first/">aqui</a> para ver, diminua e aumente a tela.</p>
+<h1>Projeto Teste de Media Queries</h1>
+
+<p>Este projeto foi realizado durante o curso de HTML5 e CSS3 do <a href="https://www.cursoemvideo.com/">Curso em vídeo</a>  e desenvolvido com HTML5 e CSS3  para estudos de medias queries, utilizando o conceito de `Mobile First`.</p>
+
+<p align="center">
+    <img width="500"src="imagens/readme/media.gif"/>
+</p>
+
+<p align="center">
+   Confira <a href="https://mendjoy.github.io/teste_mediaQueries/">aqui</a>
+</p>
+
